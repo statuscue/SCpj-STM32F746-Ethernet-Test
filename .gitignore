@@ -1,0 +1,9 @@
+/Debug/
+
+\.settings/
+
+*.ioc
+
+SCpj-STM32F746-Ethernet-Test\.elf\.launch
+
+STM32F746ZG_FLASH\.ld
